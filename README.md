@@ -8,3 +8,5 @@ Projeto simples de calculadora em Java.
 - Multiplicação
 - Divisão
 
+## Versão 1.1
+Melhorias no código e organização
