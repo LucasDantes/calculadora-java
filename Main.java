@@ -10,7 +10,7 @@ public class Main {
         double n1 = sc.nextDouble();
 
         System.out.print("Digite o segundo número: ");
-        double n2 = sc.nextDouble(); // leitura dos números
+        double n2 = sc.nextDouble(); // leitura dos números calculadora
 
         System.out.println("1 - Soma");
         System.out.println("2 - Subtração");
