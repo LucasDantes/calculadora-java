@@ -9,4 +9,4 @@ Projeto simples de calculadora em Java.
 - Divisão
 
 ## Versão 1.1
-Melhorias no código e organização
+Melhoria no código e organização

@@ -4,15 +4,15 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("=== Calculadora Simples ===");
+        System.out.println("=== Calculadora Simples v1 ===");
 
         System.out.print("Digite o primeiro número: ");
         double n1 = sc.nextDouble();
 
         System.out.print("Digite o segundo número: ");
-        double n2 = sc.nextDouble();
+        double n2 = sc.nextDouble(); // leitura dos números calculadora
 
-        System.out.println("1 - Soma");
+        System.out.println("1 - Somar");
         System.out.println("2 - Subtração");
         System.out.println("3 - Multiplicação");
         System.out.println("4 - Divisão");
