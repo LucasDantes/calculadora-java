@@ -10,3 +10,5 @@ Projeto simples de calculadora em Java.
 
 ## Versão 1.1
 Melhoria no código e organização
+
+## CI/CD configurado
